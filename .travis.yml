@@ -11,4 +11,4 @@ before_script:
 
 script: 
   - cd test
-  - lettuce test
+  - lettuce
